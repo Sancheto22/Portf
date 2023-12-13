@@ -1,4 +1,0 @@
-.idea/
-__pycache__/
-data/parquet/df.parquet
-utils.py
